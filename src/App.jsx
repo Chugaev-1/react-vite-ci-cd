@@ -15,12 +15,15 @@ function App() {
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
+
         <div>
-          <h1>Get started</h1>
+          <h1>SCM Laboratory Project</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            This project demonstrates controlled change management using GitHub,
+            branches, commits, pull requests and releases.
           </p>
         </div>
+
         <button
           type="button"
           className="counter"
@@ -54,15 +57,16 @@ function App() {
             </li>
           </ul>
         </div>
+
         <div id="social">
           <svg className="icon" role="presentation" aria-hidden="true">
             <use href="/icons.svg#social-icon"></use>
           </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
+          <h2>SCM Workflow</h2>
+          <p>Issue → Branch → Commit → Pull Request → Merge → Release</p>
           <ul>
             <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
+              <a href="https://github.com/Chugaev-1/react-vite-ci-cd" target="_blank">
                 <svg
                   className="button-icon"
                   role="presentation"
@@ -70,43 +74,7 @@ function App() {
                 >
                   <use href="/icons.svg#github-icon"></use>
                 </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
+                Project Repository
               </a>
             </li>
           </ul>
