@@ -19,8 +19,7 @@ function App() {
         <div>
           <h1>SCM Laboratory Project</h1>
           <p>
-            This project demonstrates controlled change management using GitHub,
-            branches, commits, pull requests and releases.
+            Software Configuration Management workflow implemented.
           </p>
         </div>
 
