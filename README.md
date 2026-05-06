@@ -1,16 +1,25 @@
-# React + Vite
+# React Vite CI/CD Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Description
+This project is a React application created using Vite.  
+It demonstrates the implementation of CI/CD using GitHub Actions and deployment via GitHub Pages.
 
-Currently, two official plugins are available:
+## 🚀 Technologies
+- React
+- Vite
+- GitHub Actions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ⚙️ CI/CD
+The project uses GitHub Actions to:
+- install dependencies
+- build the project
+- deploy the site automatically
 
-## React Compiler
+## 🌐 Live Demo
+https://chugaev-1.github.io/react-vite-ci-cd/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📦 Repository
+https://github.com/Chugaev-1/react-vite-ci-cd
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏷 Release
+https://github.com/Chugaev-1/react-vite-ci-cd/releases/tag/v1.0
