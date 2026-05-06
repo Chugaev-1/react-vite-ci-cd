@@ -17,9 +17,7 @@ function App() {
         </div>
         <div>
           <h1>SCM Laboratory Project</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
+          <p>Software Configuration Management workflow implemented.</p>
         </div>
         <button
           type="button"
